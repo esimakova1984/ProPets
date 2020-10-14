@@ -1,0 +1,140 @@
+body{
+    font: normal normal 12px/18px Montserrat;
+    letter-spacing: 0px;
+    color: #393939;
+    opacity: 1;
+}
+.container {
+    background-color: white;
+}
+form{
+    background-color: white;
+}
+
+.header {
+    font-size: 19px;
+    color: #669885;
+}
+
+
+select, input {
+    margin-bottom: 5%;
+}
+
+form {
+    margin-left: 10%;
+}
+
+label, textarea {
+    line-height: 1em;
+}
+
+label {
+    vertical-align: top;
+    horiz-align: left;
+}
+
+text {
+    color: #84B6A3;
+    font-size: 0.8em;
+}
+
+.drug_drop{
+    line-height: 1em;
+    color: #393939;
+    opacity: 1;
+}
+
+.friends{
+    width: 192px;
+    height: 183px;
+    background: transparent  0% 0% no-repeat padding-box;
+    opacity: 1;
+    margin-left: 25%;
+}
+
+.loadImages{
+    border-bottom: 1px solid whitesmoke;
+    border-top: 1px solid whitesmoke;
+}
+.pig{
+    width: 43px;
+    background: transparent 0% 0% no-repeat padding-box;
+    border: 1px solid #FFFFFF;
+    opacity: 1;
+    font-size: 19px;
+}
+
+.browse{
+    width: 105px;
+    height: 34px;
+    border: 1px solid #8DBFAC;
+    border-radius: 17px;
+    opacity: 1;
+    color: #669885;
+    background-color: white;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
+.download{
+    width: 30px;
+    font: normal normal normal 30px/54px Font Awesome;
+    letter-spacing: 0px;
+    color: #84B6A3;
+    opacity: 1;
+    margin-bottom: 10%;
+    margin-top: 10%;
+    background-color: white;
+}
+
+.submit {
+    width: 148px;
+    height: 34px;
+    background: #84B6A3 0% 0% no-repeat padding-box;
+    border: 1px solid #8DBFAC;
+    border-radius: 17px;
+    opacity: 1;
+    color: whitesmoke;
+}
+
+.blockPhoto{
+    width: 185px;
+    height: 111px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #8DBFAC;
+    opacity: 1;
+}
+
+.images{
+    text-align: left;
+    font: normal normal 18px Montserrat;
+    letter-spacing: 0px;
+    color: #BABABA;
+    opacity: 1;
+}
+.imagesX{
+    text-align: left;
+    font: normal normal 18px Montserrat;
+    letter-spacing: 0px;
+    color: #BABABA;
+    opacity: 1;
+    margin-left: 65px;
+}
+
+.smallDog{
+    width: 43px;
+    height: 43px;
+    background: transparent 0% 0% no-repeat padding-box;
+    border: 1px solid #FFFFFF;
+    opacity: 1;
+
+}
+
+.user{
+    text-align: left;
+    font: normal normal 600 16px/19px Montserrat;
+    letter-spacing: 0px;
+    color: #84B6A3;
+    opacity: 1;
+}

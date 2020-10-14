@@ -1,0 +1,168 @@
+.signInForm {
+    /*position: relative;*/
+    margin: auto;
+    margin-top: 10%;
+    margin-bottom: 25%;
+    padding: 0px 10px 0px 10px;
+
+    border: hidden;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    opacity: 1;
+}
+
+.logo{
+    width: 40%;
+    background-color: white;
+}
+text{
+    color: #669885;
+    top: 167px;
+    left: 432px;
+    width: 44px;
+    height: 26px;
+    opacity: 1;
+    font-size: 24px;
+}
+
+::placeholder, .forgot{
+    text-align: left;
+    font: normal normal 12px Montserrat;
+    letter-spacing: 0px;
+    color: #BABABA;
+    opacity: 1;
+}
+
+.welcome {
+    font-size: 18px;
+    color: #669885;
+}
+.logoFacebook{
+    width: 27px;
+    height: 40px;
+    text-align: left;
+    font: normal normal normal 27px/32px Font Awesome;
+    letter-spacing: 0px;
+    background-color: #FFFFFF;
+    opacity: 1;
+}
+
+img {
+    width: 30px;
+    background-color: #669885;
+    opacity: 1;
+    font-size: 24px;
+}
+
+.facebook{
+    right: 5%;
+    width: 50px;
+    background: #4560A6 0% 0% no-repeat padding-box;
+    border: 1px solid #5067B3;
+    border-radius: 17px;
+    opacity: 1;
+    color: white;
+    font: normal normal medium Mongolian Baiti;
+    letter-spacing: 2px;
+    cursor: pointer;
+}
+.facebookSm{
+    right: 10%;
+    width: 40px;
+    background: #4560A6 0% 0% no-repeat padding-box;
+    border: 1px solid #5067B3;
+    border-radius: 17px;
+    opacity: 1;
+    color: white;
+    font: normal normal medium Mongolian Baiti;
+    letter-spacing: 2px;
+    cursor: pointer;
+}
+
+.signButtons{
+    background: #84B6A3 0% 0% no-repeat padding-box;
+    margin-top: 10px;
+    opacity: 1;
+    color: whitesmoke;
+}
+
+.buttonText{
+    text-align: center;
+    font: normal normal bold 19px Montserrat;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.close {
+    position: absolute;
+    right: 5px;
+    top: 0px;
+    width: 11px;
+    height: 18px;
+    opacity: 0.3;
+}
+.close:hover {
+    opacity: 1;
+}
+.close:before, .close:after {
+    position: absolute;
+    content: ' ';
+    height: 33px;
+    width: 2px;
+    background-color: #333;
+}
+.close:before {
+    transform: rotate(45deg);
+}
+.close:after {
+    transform: rotate(-45deg);
+}
+
+.underline{
+    width: 50%;
+    height: 18px;
+    text-align: left;
+    letter-spacing: 0px;
+    color: #BABABA;
+    opacity: 1;
+    text-decoration-line: underline;
+    text-decoration-color: #84B6A3;
+    opacity: 1;
+}
+
+
+.password{
+    text-align: left;
+    font-size: 10px;
+    color: #BABABA;
+    opacity: 1;
+}
+
+
+.cancel{
+    width: 105px;
+    height: 34px;
+    border: 1px solid #8DBFAC;
+    border-radius: 17px;
+    opacity: 1;
+
+    color: #669885;
+    background-color: white;
+}
+
+.submit {
+    width: 148px;
+    height: 34px;
+    background: #84B6A3 0% 0% no-repeat padding-box;
+    border: 1px solid #8DBFAC;
+    border-radius: 17px;
+    opacity: 1;
+    color: whitesmoke;
+}
+
+.lapa{
+    width: 16px;
+    height: 16px;
+    margin-right: 10px;
+}

@@ -1,0 +1,13 @@
+export const homePage = 'home';
+export const postPage = 'postpage'
+export const lostPage = 'lost';
+export const foundPage = 'found';
+export const favorites = 'favorites';
+export const services = 'services';
+export const signup = 'signup';
+export const signin = 'signin';
+export const postpreview = 'postpreview';
+export const profile = 'profile';
+export const activities = 'activities';
+export const lostPageGen = 'lostPageGen';
+export const mapview = 'mapview';

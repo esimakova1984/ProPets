@@ -1,0 +1,152 @@
+.container{
+    background-color: white;
+}
+.cancel{
+    width: 105px;
+    height: 34px;
+    border: 1px solid #8DBFAC;
+    border-radius: 17px;
+    opacity: 1;
+    color: #669885;
+    background-color: white;
+}
+
+.features{
+    width: 300px;
+    height: 34px;
+    border: 1px solid #8DBFAC;
+    border-radius: 17px;
+    opacity: 1;
+    color: #669885;
+    background-color: white;
+}
+
+.location{
+    width: 250px;
+    height: 34px;
+    border: 1px solid #8DBFAC;
+    border-radius: 17px;
+    opacity: 1;
+    color: #669885;
+    background-color: white;
+}
+
+.mapView{
+    width: 250px;
+    height: 34px;
+    border: 1px solid #8DBFAC;
+    border-radius: 17px;
+    opacity: 0.7;
+    color: whitesmoke;
+    background-color: #669885;
+}
+
+.name{
+    text-align: left;
+    font: normal normal bold 18px Montserrat;
+    letter-spacing: 0px;
+    color: #84B6A3;
+    opacity: 1;
+    margin-left: auto;
+}
+.dogFront{
+    width: 85%;
+    height: 70%;
+    background: transparent  0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+@media screen and (max-width: 992px) {
+    .dogFront {
+        width: 95%;
+        height: 50%;
+        margin-top: 20px;
+        background: transparent  0% 0% no-repeat padding-box;
+        opacity: 1;
+    }
+}
+
+label{
+    color: #84B6A3;;
+}
+
+::placeholder{
+    color: #393939;
+}
+
+.smallDog{
+    width: 43px;
+    height: 43px;
+    background: transparent 0% 0% no-repeat padding-box;
+    border: 1px solid #FFFFFF;
+    opacity: 1;
+    margin-right: 30px;
+    margin-left: 20px;
+}
+
+.user{
+    text-align: left;
+    font: normal normal 600 16px/19px Montserrat;
+    letter-spacing: 0px;
+    color: #84B6A3;
+    opacity: 1;
+}
+
+.hours{
+    text-align: left;
+    font: normal normal  12px/15px Montserrat;
+    letter-spacing: 0px;
+    color: #BABABA;
+    opacity: 1;
+}
+
+.address{
+    font: normal normal  12px Montserrat;
+    letter-spacing: 0px;
+    color: #393939;
+    opacity: 1;
+}
+
+.smallIcons{
+    width: 33px;
+    height: 33px;
+    background: transparent 0% 0% no-repeat padding-box;
+    border: 1px solid #FFFFFF;
+    opacity: 1;
+}
+.submit {
+    width: 148px;
+    height: 34px;
+    background: #84B6A3 0% 0% no-repeat padding-box;
+    border: 1px solid #8DBFAC;
+    border-radius: 17px;
+    opacity: 1;
+    color: whitesmoke;
+
+}
+
+.edit{
+    width: 105px;
+    height: 34px;
+    border: 1px solid #8DBFAC;
+    border-radius: 17px;
+    opacity: 1;
+
+    color: #669885;
+    background-color: white;
+}
+
+.share{
+    font: normal normal 15px Montserrat;
+    letter-spacing: 0px;
+    color: #393939;
+    opacity: 1;
+}
+
+.hint{
+    text-align: right;
+    font: normal normal 15px Montserrat;
+    letter-spacing: 0px;
+    color: #BABABA;
+    opacity: 1;
+}
