@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/templatereact.iml" filepath="$PROJECT_DIR$/.idea/templatereact.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ProPets_project.iml" filepath="$PROJECT_DIR$/.idea/ProPets_project.iml" />
     </modules>
   </component>
 </project>
